@@ -8,4 +8,5 @@ Let's make OSS a better place by incentivizing people to work on it. If you know
 | RudderStack |  open source Customer Data Platform (CDP) | https://github.com/rudderlabs/rudder-server| GO, TypeScript | Misc issues and bounties | $2,000 USD per bounty | https://dev.to/rudderstack/devs-wanted-get-paid-to-contribute-to-rudderstack-s-open-source-software-bjp |
 | openScale |  Open-source weight and body metrics tracker | https://github.com/oliexdev/openScale| Java, C++ | Support Scale connection through MQTT | $30 USD  | https://www.bountysource.com/issues/103484231-feature-request-support-scale-connection-through-mqtt |
 | Etherpad |  Online collaborative really real-time editor | https://github.com/ether/etherpad-lite| Javascript | Misc issues and bounties | $80 USD | https://github.com/ether/etherpad-lite/issues |
+| Conquest of Our Ancestors |  2D grand strategy game | https://gitlab.com/chozorho/conquest | C++ | Cross-platform support, artwork, new features | $50 USD for first bounty; more TBA | https://github.com/Encryptr/multigen\_game#bounties |
 <!-- Add Next Project Here...  -->
