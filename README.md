@@ -9,4 +9,5 @@ Let's make OSS a better place by incentivizing people to work on it. If you know
 | openScale |  Open-source weight and body metrics tracker | https://github.com/oliexdev/openScale| Java, C++ | Support Scale connection through MQTT | $30 USD  | https://www.bountysource.com/issues/103484231-feature-request-support-scale-connection-through-mqtt |
 | Etherpad |  Online collaborative really real-time editor | https://github.com/ether/etherpad-lite| Javascript | Misc issues and bounties | $80 USD | https://github.com/ether/etherpad-lite/issues |
 | Conquest of Our Ancestors |  2D grand strategy game | https://gitlab.com/chozorho/conquest | C++ | Cross-platform support, artwork, new features | $50 USD for first bounty; more TBA | https://github.com/Encryptr/multigen\_game#bounties |
+| Appflowy |  Open Source Productivity Tool | https://www.appflowy.io/ | Flutter & Rust | Feature Implementation and Bug Squashing | $500 per month - Under Mentorship Program | https://appflowy.gitbook.io/docs/essential-documentation/contribute-to-appflowy/appflowy-mentorship-program/contributor-guidance |
 <!-- Add Next Project Here...  -->
