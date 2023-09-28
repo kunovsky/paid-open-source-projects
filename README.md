@@ -10,4 +10,5 @@ Let's make OSS a better place by incentivizing people to work on it. If you know
 | Etherpad |  Online collaborative really real-time editor | https://github.com/ether/etherpad-lite| Javascript | Misc issues and bounties | $80 USD | https://github.com/ether/etherpad-lite/issues |
 | Conquest of Our Ancestors |  2D grand strategy game | https://gitlab.com/chozorho/conquest | C++ | Cross-platform support, artwork, new features | $50 USD for first bounty; more TBA | https://github.com/Encryptr/multigen\_game#bounties |
 | Appflowy |  Open Source Productivity Tool | https://www.appflowy.io/ | Flutter & Rust | Feature Implementation and Bug Squashing | $500 per month - Under Mentorship Program | https://appflowy.gitbook.io/docs/essential-documentation/contribute-to-appflowy/appflowy-mentorship-program/contributor-guidance |
+| Trigger.dev |  The open source Background Jobs framework for TypeScript | https://trigger.dev/ | Nextjs and Typescript | Feature Implementation and bounties | $50 -$200 (depends on the bounty) | https://github.com/triggerdotdev/trigger.dev/issues |
 <!-- Add Next Project Here...  -->
